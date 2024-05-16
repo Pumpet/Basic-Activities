@@ -1,7 +1,6 @@
 package otus.gpb.homework.activities
 
 import android.content.Intent
-import android.content.pm.ActivityInfo
 import android.os.Bundle
 import android.util.Log
 import android.widget.Button
